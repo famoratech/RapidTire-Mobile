@@ -24,8 +24,8 @@ export default function Hero() {
         >
           <span className="flex items-center gap-1.5">
             <MapPin size={16} className="text-[#F59E0B]" />
-            Serving {siteConfig.serviceArea.center} &{" "}
-            {siteConfig.serviceArea.radiusMiles}mi radius
+            Serving {siteConfig.serviceArea.center} up to{" "}
+            {siteConfig.serviceArea.radiusMiles}KM radius
           </span>
           <span className="hidden sm:inline">•</span>
           <span className="flex items-center gap-1.5">

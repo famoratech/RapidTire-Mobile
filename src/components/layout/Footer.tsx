@@ -113,10 +113,10 @@ export default function Footer() {
           <p className="text-gray-500 text-xs">
             Built by{" "}
             <a
-              href="#"
+              href="https://www.edgehit.ca/"
               className="text-gray-400 hover:text-white transition-colors font-medium"
             >
-              Your Agency Name
+              EdgeHit CA
             </a>
           </p>
         </div>
