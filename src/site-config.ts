@@ -1,8 +1,8 @@
 export const siteConfig = {
-  businessName: "RapidTire Mobile Service",
-  phoneNumber: "+1-226-507-0067",
-  whatsappNumber: "+12265070067",
-  email: "help@rapidtire.com",
+  businessName: "Elu Mobile Tire Change Services",
+  phoneNumber: "+1-519-572-7331",
+  whatsappNumber: "+15195727331",
+  email: "elutirechane@gmail.com",
   serviceArea: {
     center: "KW, GTHA, Brant County ON and surrounding areas",
     radiusMiles: 70,
